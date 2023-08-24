@@ -1,0 +1,70 @@
+
+
+.menu{
+    background-color: rgb(217, 180, 242);
+    width: 1360px;
+    height: 50px;
+    margin: 5px;
+    padding: 3px;
+}
+
+.menu ul li {
+    list-style: none;
+    display: inline;
+    padding: 2px;
+    float: right;
+    width: 300px;
+    color: blue;
+}
+
+.content{
+    text-align: center;
+}
+ p{
+    color: blueviolet;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    text-align: center;
+ }
+
+ h1{
+    color: black;
+    font-size: x-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ }
+
+ td, th {
+    padding: .7em;
+    margin: 0;
+    text-align: center;
+  }
+  
+  table{
+    width: 100%;
+    margin-bottom : .5em;
+    table-layout: fixed;
+    text-align: center;
+  }
+
+
+
+  input{
+    width: 250px;
+    height: 20px;
+   border-radius: 3px;
+   margin: 2px;
+  }
+
+  button{
+    border-radius: 2px;
+    color: blueviolet;
+    width: 100px;
+    background-color: azure;
+  }
+
+  label{
+    color: blueviolet;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    text-align: center;
+  }
